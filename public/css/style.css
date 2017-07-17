@@ -1,0 +1,25 @@
+
+body {
+	padding: 5px;
+	background: #f4f4f4;
+}
+
+
+
+.container#success {
+	line-height: 2rem;
+	background-color: #ffafaf;
+}
+
+
+.container {
+	border-width: 2px;
+	border-style: solid;
+	border-color: teal;
+}
+
+.content {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 0 10px 0 10px;
+}

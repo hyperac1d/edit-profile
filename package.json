@@ -1,0 +1,19 @@
+{
+  "name": "mat-pc",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperac1d/edit-profile.git"
+  },
+  "author": "mat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperac1d/edit-profile/issues"
+  },
+  "homepage": "https://github.com/hyperac1d/edit-profile#readme"
+}
